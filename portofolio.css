@@ -1,0 +1,110 @@
+.sekil {
+    min-height: 30rem;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+
+ }
+ .sekil .yazi h1{
+     font-size: 80px;
+     padding-top: 240px; 
+ }
+ .sekil .yazi p{
+    font-size: 25px;
+ }
+ .yazi{
+     text-align: center;
+ }
+ .yazi .duyme a{
+        background: #1d809f;
+        color: #fff;
+        line-height: 80px;
+        padding: 20px 45px;
+        font-weight: 600;
+        font-size: 18px;
+        margin-left: 10px;
+        text-decoration: none;
+ }
+    .yazi a:hover{
+    background: #007bff;    
+ }
+ .duyme{
+    margin:30px 0;
+ }
+ .hisse2{
+font-size: 20px;
+padding-top: 120px;
+padding-top: 50px;
+padding-left: 250px;
+margin: 15px 15px;
+ }
+ .hisse2 h2{
+     font-size: 35px;
+     margin: 25px 0;
+ }
+ .hisse2 p{
+     font-size: 20px;
+     margin: 15px 0;
+ }
+ .duyme2 a{
+    text-decoration: none;
+    background: #343a40;
+    line-height: 80px;
+    padding: 20px 45px;
+    font-weight: 600;
+    color: white;
+    border-radius: 10px;
+    margin-left: 250px;
+ }
+.hisse3{
+    background: #1d809f;
+    height: 400px;
+}
+.servicesbox .icons{
+    background-color:white;
+    padding: 50px;
+    border-radius: 100px;
+    width: 12%;
+    text-align: center;
+    margin: auto;
+}
+.yazi3 h3{
+margin-left: 500px;
+padding: 10px;
+color:#ecb807;
+font-size: 25px;
+}
+.yazi3 h2{
+    margin-left: 385px;
+    font-size: 60px;
+    color: white;
+}
+.servicesbox h4,.servicesbox p{
+    padding: 10px;
+    color: white;
+    padding-left: 15px;
+     text-align: center;
+}
+.servicesboxes{
+    margin: 35px 0;
+}
+.portbox{
+    height: 300px;
+     margin: 15px;
+    background: red;
+}
+.portbox:hover{
+    animation: emin 2s infinite;
+}
+@keyframes emin{
+    0%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(0.8);
+    }
+}
